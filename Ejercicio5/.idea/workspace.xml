@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="eb4e9038-81be-41fa-94b6-5635480dc178" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1p1h6ShGnVMe4AiM3eU1lrZDoJK" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="eb4e9038-81be-41fa-94b6-5635480dc178" name="Default Changelist" comment="" />
+      <created>1614356328392</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1614356328392</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="489" y="334" width="377" height="133" key="ReplaceDuplicatesPrompt" timestamp="1614356674236">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="489" y="334" width="377" height="133" key="ReplaceDuplicatesPrompt/0.27.1366.741@0.27.1366.741" timestamp="1614356674236" />
+    <state x="416" y="158" width="568" height="507" key="extract.method.dialog" timestamp="1614356667549">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="416" y="158" width="568" height="507" key="extract.method.dialog/0.27.1366.741@0.27.1366.741" timestamp="1614356667549" />
+    <state x="0" y="27" width="1356" height="741" key="new project wizard" timestamp="1614357763180">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="0" y="27" width="1356" height="741" key="new project wizard/0.27.1366.741@0.27.1366.741" timestamp="1614357763180" />
+  </component>
+</project>
